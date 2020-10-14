@@ -1,0 +1,1 @@
+- ต้องติดตั้ง native-base ด้วยคำสั่ง npm install native-base
